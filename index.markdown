@@ -4,3 +4,7 @@
 
 layout: default
 ---
+
+[Blogs](https://rruiqin.github.io/blogs/)
+
+[About](https://rruiqin.github.io/about/)
