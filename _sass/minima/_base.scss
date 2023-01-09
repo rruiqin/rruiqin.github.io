@@ -199,8 +199,8 @@ pre {
  */
 .wrapper {
   max-width: calc(#{$content-width} - (#{$spacing-unit}));
-  margin-right: 100px;
-  margin-left: 100px;
+  margin-right: auto;
+  margin-left: auto;
   padding-right: $spacing-unit * .5;
   padding-left: $spacing-unit * .5;
   @extend %clearfix;
