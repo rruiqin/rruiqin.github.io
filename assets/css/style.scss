@@ -1,8 +1,10 @@
 ---
 ---
 
-@import
+@import 
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize",
   "minima/_base",
-  "minima/custom-variables";
+  "minima/_layout",
+  "minima/custom-variables",
+  "minima/custom-styles";
