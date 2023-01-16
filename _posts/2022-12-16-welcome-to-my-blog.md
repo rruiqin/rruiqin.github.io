@@ -9,6 +9,7 @@ categories: general
 aside:
     toc: true
 ---
+![ ](../assets/images/post/2022-12-16-welcome-to-my-blog/about.png)
 
 <img class="image image--md" src="../assets/images/post/2022-12-16-welcome-to-my-blog/about.png"/>
 
